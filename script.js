@@ -12,7 +12,7 @@ var fondo = {
 
 
 var sprite1 = {
-	url:"sprite1.png",
+	url:"Sprite1.png",
 	x: 100,
 	y: 100,
 	image: null
@@ -93,7 +93,7 @@ function teclado(dato){
      	 dibujar();
     }
     if (dato.keyCode == teclas.DOWN) {
-    	sprite1.imagen.src = "sprite1.png";
+    	sprite1.imagen.src = "Sprite1.png";
      	    	sprite1.y = sprite1.y +10;
      	    	 dibujar();
     }
