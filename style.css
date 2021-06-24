@@ -1,0 +1,11 @@
+body{
+
+	background-image: url("https://gameplanet-53f8.kxcdn.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/m/a/maxi-poster-mario-bros-personajes.jpg");
+	background-size: cover;
+	text-align: center;
+}
+
+
+canvas{
+	background-color: whitesmoke;
+}
